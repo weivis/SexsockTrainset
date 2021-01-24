@@ -25,7 +25,8 @@
 |  数据名  | 标签名  |
 |  ----  |  ----  |
 | 裸腿  | barelegs |
-| 连裤袜  | tights |
+| (白)连裤袜  | white_tights |
+| (黑)连裤袜  | black_tights |
 | 短袜  | anklet |
 | 网眼袜  | fishnet_thigh |
 | (黑)高筒袜  | black_stocking |
